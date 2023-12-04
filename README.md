@@ -21,7 +21,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 
 ## Connect with me:
 - [LinkedIn](LinkedIn_Profile_Link)
-- Email: juandelacruz@gmail.com
+- Email: aaronne.delacruz13@gmail.com
 
 
 <!---
