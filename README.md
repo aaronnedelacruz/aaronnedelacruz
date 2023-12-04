@@ -20,7 +20,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with me:
-- [LinkedIn](LinkedIn_Profile_Link)
+- [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)
 - Email: aaronne.delacruz13@gmail.com
 
 
