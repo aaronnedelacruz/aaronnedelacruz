@@ -12,7 +12,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=499F17B4D26CDB39108D9663FF068F2044C5D4425CE17102BF49734B989D6049)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=378E9C954333079049341179DBA74249BF85A7D5AA36A5E6DE976BE61D4D00AB)
-- [SQL and Relational Databases 101](Certification_Link_4)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/390180f906824e98b47558fce7e910e7)
 
 ## Skill Sets:
 - **Programming:** Java, Javascript
