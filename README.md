@@ -17,7 +17,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 
 ## Skill Sets:
 - **Programming:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
+- **Databases:** IBM DB2 Cloud, MongoDB 
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with me:
