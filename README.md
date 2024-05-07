@@ -21,7 +21,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
+- LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
 - Email: aaronne.delacruz13@gmail.com
 
 
