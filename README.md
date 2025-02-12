@@ -6,7 +6,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 ## Education:
 - **BS Information Technology**
   - New Era University
-  - 2021-Present
+  - 2022-Present
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
@@ -17,9 +17,9 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url)
 
 ## Skill Sets:
-- **Programming:** Java, Javascript
+- **Programming:** Java, Javascript, HTML, PHP, Kotlin, Python
 - **Databases:** IBM DB2 Cloud, MongoDB 
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, 
 
 ## Connect with me:
 - LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
