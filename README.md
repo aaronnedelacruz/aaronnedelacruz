@@ -8,6 +8,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 ## Education:
 - **Bachelor of Science in Information Technology (2022 – Present)**  
   - New Era University (NEU), Quezon City, Philippines
+  - President's Lister
   - Capstone Thesis: "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration"
 
 ## Certification:
