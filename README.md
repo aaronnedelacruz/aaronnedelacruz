@@ -1,6 +1,6 @@
 # Aaronne Christian E. Dela Cruz
-- Mobile: 0976 538 3886
 - LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
+- Mobile: 0976 538 3886
 - E-mail: aaronne.delacruz13@gmail.com
 
 ## About me:
@@ -8,8 +8,8 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 
 ## Education:
 - **Bachelor of Science in Information Technology (2022 – Present)**  
-  New Era University (NEU), Quezon City, Philippines
-  Capstone Thesis: "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration"
+  - New Era University (NEU), Quezon City, Philippines
+  - Capstone Thesis: "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration"
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
@@ -25,9 +25,14 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 - **Web & App Development:** Laravel, Android (Java/Kotlin),
 - **Tools:** Microsoft Office Applications, Figma, Cisco Packet Tracer, PowerBI, Lucidchart, Jaspersoft Studio, Eclipse, Canva, Visual Studio Code, Laragon
 
+**Language Skills:**
+- English (Fluent / Professional Proficiency)
+- Filipino / Tagalog (Native / Fluent)
 
-
-
+**Interests:**
+- Web and mobile app development
+- Database design and optimization
+- Video editing and Digital design
 
 <!---
 aaronnedelacruz/aaronnedelacruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
