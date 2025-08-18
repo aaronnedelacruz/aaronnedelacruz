@@ -1,5 +1,5 @@
 # Aaronne Christian E. Dela Cruz  
-Caloocan City | aaronne.delacruz13@gmail.com | #0976 538 3886 | [LinkedIn](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/) |
+Caloocan City | aaronne.delacruz13@gmail.com | #0976 538 3886 | [LinkedIn: Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/) |
 
 
 ## About Me:
