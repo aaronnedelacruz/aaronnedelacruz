@@ -19,7 +19,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 ## Skill Sets:
 - **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
 - **Databases:** IBM DB2 Cloud, MongoDB, Firebase, MySQL
-- **Tools:** Microsoft Office Applications, Figma, Cisco Packet Tracer, PowerBI, Lucidchart, Jaspersoft Studio, Eclipse, Canva, Visual Studio Code
+- **Tools:** Microsoft Office Applications, Figma, Cisco Packet Tracer, PowerBI, Lucidchart, Jaspersoft Studio, Eclipse, Canva, Visual Studio Code, Laragon
 
 ## Connect with me:
 - LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
