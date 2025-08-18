@@ -1,6 +1,6 @@
 # Aaronne Christian E. Dela Cruz
-- LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
 - Mobile: 0976 538 3886
+- LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
 - E-mail: aaronne.delacruz13@gmail.com
 
 ## About Me:
