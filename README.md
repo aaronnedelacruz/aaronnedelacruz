@@ -17,9 +17,9 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url)
 
 ## Skill Sets:
-- **Programming:** Java, Javascript, HTML, PHP, Kotlin, Python
-- **Databases:** IBM DB2 Cloud, MongoDB 
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, 
+- **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
+- **Databases:** IBM DB2 Cloud, MongoDB, Firebase, MySQL
+- **Tools:** Microsoft Office Applications, Figma, Cisco Packet Tracer, PowerBI, Lucidchart, Jaspersoft Studio, Eclipse, Canva, Visual Studio Code
 
 ## Connect with me:
 - LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
