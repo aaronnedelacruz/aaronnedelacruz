@@ -1,7 +1,6 @@
-# Aaronne Christian E. Dela Cruz
-- Mobile: 0976 538 3886
-- LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
-- E-mail: aaronne.delacruz13@gmail.com
+# Aaronne Christian E. Dela Cruz  
+📱 0976 538 3886 | 💼 [LinkedIn](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/) | ✉️ aaronne.delacruz13@gmail.com
+
 
 ## About Me:
 A reliable and detail-oriented IT professional in training, offering strong skills in database management, web development, and mobile applications. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
