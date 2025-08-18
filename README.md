@@ -4,9 +4,9 @@
 I'm a tech enthusiast with a passion for coding and expertise in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
 
 ## Education:
-- **BS Information Technology**
-  - New Era University
-  - 2022-Present
+- **BS Information Technology 2022-Present**
+  New Era University (NEU)
+  9 Central Ave, Quezon City
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
