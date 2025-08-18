@@ -3,8 +3,8 @@
 - Mobile: 0976 538 3886
 - E-mail: aaronne.delacruz13@gmail.com
 
-## About me:
-I'm a tech enthusiast with a passion for coding and expertise in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
+## About Me:
+A reliable and detail-oriented IT professional in training, offering strong skills in database management, web development, and mobile applications. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
 
 ## Education:
 - **Bachelor of Science in Information Technology (2022 – Present)**  
@@ -19,7 +19,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d2289b97bbb7403a8a875935bd92389e)
 - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url)
 
-## Skill Sets:
+## Technical Skill Sets:
 - **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
 - **Databases:** IBM DB2 Cloud, MongoDB, Firebase, MySQL
 - **Web & App Development:** Laravel, Android (Java/Kotlin),
@@ -32,7 +32,7 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 **Interests:**
 - Web and mobile app development
 - Database design and optimization
-- Video editing and Digital design
+- Video editing and digital design
 
 <!---
 aaronnedelacruz/aaronnedelacruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
