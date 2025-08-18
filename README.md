@@ -1,12 +1,15 @@
-# 👋 Hi there, I'm Aaronne Dela Cruz!
+# Aaronne Christian E. Dela Cruz
+- Mobile: 0976 538 3886
+- LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
+- E-mail: aaronne.delacruz13@gmail.com
 
 ## About me:
 I'm a tech enthusiast with a passion for coding and expertise in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
 
 ## Education:
-- **BS Information Technology 2022-Present**
-  New Era University (NEU)
-  9 Central Ave, Quezon City
+- **Bachelor of Science in Information Technology (2022 – Present)**  
+  New Era University (NEU), Quezon City, Philippines
+  Capstone Thesis: "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration"
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
@@ -19,11 +22,11 @@ I'm a tech enthusiast with a passion for coding and expertise in database manage
 ## Skill Sets:
 - **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
 - **Databases:** IBM DB2 Cloud, MongoDB, Firebase, MySQL
+- **Web & App Development:** Laravel, Android (Java/Kotlin),
 - **Tools:** Microsoft Office Applications, Figma, Cisco Packet Tracer, PowerBI, Lucidchart, Jaspersoft Studio, Eclipse, Canva, Visual Studio Code, Laragon
 
-## Connect with me:
-- LinkedIn: [Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/)
-- Email: aaronne.delacruz13@gmail.com
+
+
 
 
 <!---
