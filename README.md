@@ -27,7 +27,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 
 **Language Skills:**
 - English (Fluent / Professional Proficiency)
-- Filipino / Tagalog (Native / Fluent)
+- Filipino (Native / Fluent)
 
 **Interests:**
 - Web and mobile app development
