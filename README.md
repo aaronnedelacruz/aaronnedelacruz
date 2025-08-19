@@ -6,10 +6,11 @@ Camarin, Caloocan City | aaronne.delacruz13@gmail.com | #0976 538 3886 | [Linked
 A reliable and detail-oriented IT professional in training, offering strong skills in database management, web development, and mobile applications. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
 
 ## Education:
-- **Bachelor of Science in Information Technology (2022 – Present)**  
-  - New Era University (NEU), Quezon City, Philippines
+- **New Era University (2022 – Present)**  
+  - Bachelor of Science in Information Technology
   - President's Lister
   - Capstone Thesis: "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration"
+- **
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
