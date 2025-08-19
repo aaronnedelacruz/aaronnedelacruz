@@ -2,7 +2,7 @@
 Camarin, Caloocan City | aaronne.delacruz13@gmail.com | 0976 538 3886 | [LinkedIn: Aaronne Christian Dela Cruz](https://www.linkedin.com/in/aaronne-christian-dela-cruz-04105b2a3/) |
 
 ## About Me:
-A reliable and detail-oriented IT professional in training, offering strong skills in database management, web development, and mobile applications. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
+A reliable and detail-oriented IT professional in training, offering strong skills in web development, mobile applications, and database management. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
 
 ## Education:
 - **New Era University (2022 – Present)**  
