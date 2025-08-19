@@ -18,7 +18,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 
 ## Relevant Coursework: 
   - "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration"<br>
-    A mobile-first application that enables:  
+    Developed with fellow programmers, this mobile-first application enables:  
     - Creation, editing, and sharing of flashcards and quizzes (multiple choice and enumeration).  
     - Flexible content creation from images, AI-generated prompts, scanned documents via camera, PDF files, and manual input.  
     - Real-time collaboration through group chat and study sessions.  
