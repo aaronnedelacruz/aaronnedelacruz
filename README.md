@@ -12,6 +12,9 @@ A reliable and detail-oriented IT professional in training, offering strong skil
   - Graduated with Academic Honors
 - **Camarin High School (2016-2020)**
   - Graduated with Academic Honors
+  - Campus Journalist of School Publication "Ang Aykon"
+  - Head Creative Director of Performing Arts Club "Tanghalang Dulawiyaw" 
+  - Member of English Club
 - **Camarin Elementary School (2010-2016)**
   - Ranked among the top 10 students in 6th-grade graduating class
   - With Honors
