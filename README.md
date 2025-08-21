@@ -34,6 +34,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/390180f906824e98b47558fce7e910e7)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d2289b97bbb7403a8a875935bd92389e)
 - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url)
 
 ## Technical Skill Sets:
 - **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
