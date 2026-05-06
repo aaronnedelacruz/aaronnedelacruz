@@ -1,5 +1,5 @@
 # Aaronne Christian E. Dela Cruz  
-Camarin, Caloocan City | aaronnechristiandelacruz@gmail.com | 0976 538 3886 
+Camarin, Caloocan City
 
 ## About Me:
 A reliable and detail-oriented IT professional in training, offering strong skills in web development, mobile applications, and database management. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
