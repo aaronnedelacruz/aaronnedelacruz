@@ -17,22 +17,26 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - **Camarin Elementary School (2010-2016)**
   - Graduated with Academic Honors
 
-## Relevant Experience: 
-  **Intern**  
-  Simplevia Technologies Inc. · Internship  
-  Oct 2025 – Mar 2026 · 6 mos  
-  Makati, National Capital Region, Philippines · Remote  
+## Relevant Experience
 
-  - Worked on the design and development of a web-based environmental compliance monitoring system for registered economic zone enterprises  
-  - Handled UI/UX design and prototyping for at least 18 system modules, focusing on usability, consistency, and alignment with system requirements  
-  - Created responsive mobile design counterparts to ensure cross-device accessibility  
-  - Assisted in front-end development by implementing and integrating functional web pages under supervisor-assigned tasks  
-  **StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration" (Capstone)**
-  Developed with fellow programmers, this mobile-first application enables:  
-  - Creation, editing, and sharing of flashcards and quizzes (multiple choice and enumeration).  
-  - Flexible content creation from images, AI-generated prompts, scanned documents via camera, PDF files, and manual input.  
-  - Real-time collaboration through group chat and study sessions.  
-  - Hosting of live quizzes within group chats to promote interactive learning, friendly competition, and collective review.  
+### Intern  
+Simplevia Technologies Inc. · Internship  
+Oct 2025 – Mar 2026 · 6 mos  
+Makati, National Capital Region, Philippines · Remote  
+
+- Worked on the design and development of a web-based environmental compliance monitoring system for registered economic zone enterprises  
+- Handled UI/UX design and prototyping for at least 18 system modules, focusing on usability, consistency, and alignment with system requirements  
+- Created responsive mobile design counterparts to ensure cross-device accessibility  
+- Assisted in front-end development by implementing and integrating functional web pages under supervisor-assigned tasks  
+
+### Capstone Project  
+**StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration** · Jun 2026  
+
+- Developed with fellow programmers, this mobile-first application enables:
+  - Creation, editing, and sharing of flashcards and quizzes (multiple choice and enumeration)  
+  - Flexible content creation from images, AI-generated prompts, scanned documents via camera, PDF files, and manual input  
+  - Real-time collaboration through group chat and study sessions  
+  - Hosting of live quizzes within group chats to promote interactive learning, friendly competition, and collective review  
 
 ## Seminars & Trainings
 
