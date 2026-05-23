@@ -20,7 +20,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 ## Relevant Experience
 
 ### Intern  
-**Simplevia Technologies Inc. · Internship**   
+**Simplevia Technologies Inc.**   
 Oct 2025 – Mar 2026  
 Makati, National Capital Region, Philippines · Remote  
 
@@ -34,11 +34,17 @@ Makati, National Capital Region, Philippines · Remote
 Jun 2026  
 Quezon City, National Capital Region, Philippines  
 
+- Responsible for quiz functionality, backend debugging, Firebase database integration, and front-end design.
+- Mobile app enabling creation, sharing, and group-based use of flashcards and quizzes with interactive study sessions.
+- Learned mobile app development, UI/UX design, database structuring in Firebase, real-time data handling, and collaborative project management.
+
+<!--
 - Developed with fellow programmers, this mobile-first application enables:
   - Creation, editing, and sharing of flashcards and quizzes (multiple choice and enumeration)  
   - Flexible content creation from images, AI-generated prompts, scanned documents via camera, PDF files, and manual input  
   - Real-time collaboration through group chat and study sessions  
   - Hosting of live quizzes within group chats to promote interactive learning, friendly competition, and collective review  
+-->
 
 ## Seminars & Trainings
 
