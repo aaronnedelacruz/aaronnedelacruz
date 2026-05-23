@@ -25,6 +25,23 @@ A reliable and detail-oriented IT professional in training, offering strong skil
     - Real-time collaboration through group chat and study sessions.  
     - Hosting of live quizzes within group chats to promote interactive learning, friendly competition, and collective review.  
 
+## Seminars & Trainings
+
+- [Modern Web Development: How a Full Stack Web App Goes Live](./certificates/modern-web-development.pdf)  
+- [Agentic AI](./certificates/agentic-ai.pdf)  
+- [Building A Home without Windows: A Student's Guide to Linux](./certificates/linux-student-guide.pdf)  
+- [Business Communication](./certificates/business-communication.pdf)  
+- [Beyond the Degree: Skills and Competencies for Your Future Tech](./certificates/beyond-degree-skills.pdf)  
+
+<!-- Non-core / not directly software engineering & web development focused -->
+<!-- - [Web Penetration Testing 101](./certificates/web-penetration-testing.pdf) -->
+<!-- - [Behind the Scenes of Game QA: Testing, NDA’s, and Daily Life](./certificates/game-qa-testing.pdf) -->
+<!-- - [Life After Graduation: The Reality No One Talks About](./certificates/life-after-graduation.pdf) -->
+<!-- - [Power UP your PASSION: Careers in the Gaming World](./certificates/gaming-careers.pdf) -->
+<!-- - [From Frame to Scene: I Have a Degree in Animation, Now What’s Next?](./certificates/animation-next-steps.pdf) -->
+<!-- - [How to Earn in Animation](./certificates/earn-animation.pdf) -->
+<!-- - [Rewrite your Legacy: From Comics to Hollywood – A 2D Illustrator’s Journey](./certificates/animation-legacy.pdf) -->
+
 ## Certifications:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=499F17B4D26CDB39108D9663FF068F2044C5D4425CE17102BF49734B989D6049)
