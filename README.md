@@ -21,7 +21,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 
 ### Intern  
 Simplevia Technologies Inc. · Internship  
-Oct 2025 – Mar 2026 · 6 mos  
+Oct 2025 – Mar 2026
 Makati, National Capital Region, Philippines · Remote  
 
 - Worked on the design and development of a web-based environmental compliance monitoring system for registered economic zone enterprises  
