@@ -20,7 +20,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 ## Relevant Experience
 
 ### Intern  
-Simplevia Technologies Inc. · Internship  
+**Simplevia Technologies Inc. · Internship**
 Oct 2025 – Mar 2026  
 Makati, National Capital Region, Philippines · Remote  
 
