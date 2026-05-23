@@ -5,19 +5,17 @@ Camarin, Caloocan City
 A reliable and detail-oriented IT professional in training, offering strong skills in web development, mobile applications, and database management. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
 
 ## Education:
-- **New Era University (2022 – Present)**  
+- **New Era University (2022 – 2026)**  
   - Bachelor of Science in Information Technology
   - President's Lister
 - **New Era University - Integrated School (2020 - 2022)**
   - Graduated with Academic Honors
 - **Camarin High School (2016-2020)**
   - Graduated with Academic Honors
-  - Campus Journalist of School Publication "Ang Aykon"
-  - Head Creative Director of Performing Arts Club "Tanghalang Dulawiyaw" 
-  - Member of English Club
+  - Campus Journalist of School Publication
+  - Head Creative Director of Performing Arts Club
 - **Camarin Elementary School (2010-2016)**
-  - Ranked among the top 10 students in 6th-grade graduating class
-  - With Honors
+  - Graduated with Academic Honors
 
 ## Relevant Coursework: 
   - "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration"<br>
@@ -41,27 +39,25 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
 - **Databases:** IBM DB2 Cloud, Firebase, MongoDB, MySQL
 - **Web & App Development:** Laravel, Android (Java/Kotlin),
-- **Tools:** Microsoft Office Applications, Figma, Cisco Packet Tracer, PowerBI, Lucidchart, Jaspersoft Studio, Eclipse, Canva, Visual Studio Code, Laragon
+- **Tools:** Visual Studio Code, Eclipse, Laragon, Lucidchart, Figma, PowerBI, Jaspersoft Studio, Cisco Packet Tracer, Microsoft Office Applications, Canva
 
 ## Soft Skills: 
 - Problem-solving and critical thinking
-- Digital tools and technology proficiency
 - Systematic and detail-oriented
 - Data collection and analysis
-- Team collaboration and leadership
+- Teamwork and collaboration
 - Report writing and presentation
-- Interpersonal communication
 - Committed to applying analytical and technical skills to support organizational goals
-
-## Languages:
-- English (Fluent with Professional Proficiency)
-- Filipino (Native Speaker)
 
 ## Interests:
 - Web and mobile app development
 - Database design and optimization
 - Video editing and digital design
-- UI/UX design and creative layouting 
+- UI/UX design
+
+- ## Languages:
+- English 
+- Filipino 
 
 <!---
 aaronnedelacruz/aaronnedelacruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
