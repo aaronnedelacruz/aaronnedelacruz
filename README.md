@@ -32,7 +32,6 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - [Building A Home without Windows: A Student's Guide to Linux](./certificates/D1_T2_S237.png)  
 - [Business Communication](./certificates/D2_T4_S151.png)  
 - [Beyond the Degree: Skills and Competencies for Your Future Tech](./certificates/D2_T2_S5.png)  
-
 <!-- Non-core / not directly software engineering & web development focused -->
 <!-- - [Web Penetration Testing 101](./certificates/web-penetration-testing.pdf) -->
 <!-- - [Behind the Scenes of Game QA: Testing, NDA’s, and Daily Life](./certificates/game-qa-testing.pdf) -->
@@ -41,8 +40,6 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 <!-- - [From Frame to Scene: I Have a Degree in Animation, Now What’s Next?](./certificates/animation-next-steps.pdf) -->
 <!-- - [How to Earn in Animation](./certificates/earn-animation.pdf) -->
 <!-- - [Rewrite your Legacy: From Comics to Hollywood – A 2D Illustrator’s Journey](./certificates/animation-legacy.pdf) -->
-
-## Certifications:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=499F17B4D26CDB39108D9663FF068F2044C5D4425CE17102BF49734B989D6049)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=378E9C954333079049341179DBA74249BF85A7D5AA36A5E6DE976BE61D4D00AB)
