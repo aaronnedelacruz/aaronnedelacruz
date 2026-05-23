@@ -74,9 +74,9 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - Video editing and digital design
 - UI/UX design
 
-- ## Languages:
-- English 
-- Filipino 
+## Languages:
+- English
+- Filipino
 
 <!---
 aaronnedelacruz/aaronnedelacruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
