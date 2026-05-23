@@ -27,12 +27,12 @@ A reliable and detail-oriented IT professional in training, offering strong skil
   - Handled UI/UX design and prototyping for at least 18 system modules, focusing on usability, consistency, and alignment with system requirements  
   - Created responsive mobile design counterparts to ensure cross-device accessibility  
   - Assisted in front-end development by implementing and integrating functional web pages under supervisor-assigned tasks  
-  - "StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration" (Capstone)<br>
-    Developed with fellow programmers, this mobile-first application enables:  
-    - Creation, editing, and sharing of flashcards and quizzes (multiple choice and enumeration).  
-    - Flexible content creation from images, AI-generated prompts, scanned documents via camera, PDF files, and manual input.  
-    - Real-time collaboration through group chat and study sessions.  
-    - Hosting of live quizzes within group chats to promote interactive learning, friendly competition, and collective review.  
+  **StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration" (Capstone)**
+  Developed with fellow programmers, this mobile-first application enables:  
+  - Creation, editing, and sharing of flashcards and quizzes (multiple choice and enumeration).  
+  - Flexible content creation from images, AI-generated prompts, scanned documents via camera, PDF files, and manual input.  
+  - Real-time collaboration through group chat and study sessions.  
+  - Hosting of live quizzes within group chats to promote interactive learning, friendly competition, and collective review.  
 
 ## Seminars & Trainings
 
