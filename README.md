@@ -31,7 +31,7 @@ Makati, National Capital Region, Philippines · Remote
 
 ### Capstone Project  
 **StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration** 
-Jun 2026  
+Jun 2026
 Quezon City, National Capital Region, Philippines
 
 - Developed with fellow programmers, this mobile-first application enables:
