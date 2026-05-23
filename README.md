@@ -26,19 +26,21 @@ A reliable and detail-oriented IT professional in training, offering strong skil
     - Hosting of live quizzes within group chats to promote interactive learning, friendly competition, and collective review.  
 
 ## Certifications:
-- [Introduction to Packet Tracer](https://www.credly.com/badges/46a4b437-bd85-4fd1-b99f-fb6d860961ca)
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56FA494796A3971B4446BFD7E18E5263FD49746635143C07FBEB5B5DECC64BF1)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=499F17B4D26CDB39108D9663FF068F2044C5D4425CE17102BF49734B989D6049)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=378E9C954333079049341179DBA74249BF85A7D5AA36A5E6DE976BE61D4D00AB)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/390180f906824e98b47558fce7e910e7)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d2289b97bbb7403a8a875935bd92389e)
-- [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url)
-- [Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url)
+
+<!-- Less relevant / supporting certifications -->
+<!-- - [Introduction to Packet Tracer](https://www.credly.com/badges/46a4b437-bd85-4fd1-b99f-fb6d860961ca) -->
+<!-- - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
+<!-- - [Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
 
 ## Technical Skill Sets:
 - **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
 - **Databases:** IBM DB2 Cloud, Firebase, MongoDB, MySQL
-- **Web & App Development:** Laravel, Android (Java/Kotlin),
+- **Web & App Development:** Laravel, Android (Java/Kotlin)
 - **Tools:** Visual Studio Code, Eclipse, Laragon, Lucidchart, Figma, PowerBI, Jaspersoft Studio, Cisco Packet Tracer, Microsoft Office Applications, Canva
 
 ## Soft Skills: 
