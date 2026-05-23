@@ -27,11 +27,11 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 
 ## Seminars & Trainings
 
-- [Modern Web Development: How a Full Stack Web App Goes Live](./certificates/modern-web-development.pdf)  
-- [Agentic AI](./certificates/agentic-ai.pdf)  
-- [Building A Home without Windows: A Student's Guide to Linux](./certificates/linux-student-guide.pdf)  
-- [Business Communication](./certificates/business-communication.pdf)  
-- [Beyond the Degree: Skills and Competencies for Your Future Tech](./certificates/beyond-degree-skills.pdf)  
+- [Modern Web Development: How a Full Stack Web App Goes Live](./certificates/D2_T1_S177.png)  
+- [Agentic AI](./certificates/D1_T3_S205.png)  
+- [Building A Home without Windows: A Student's Guide to Linux](./certificates/D1_T2_S237.png)  
+- [Business Communication](./certificates/D2_T4_S151.png)  
+- [Beyond the Degree: Skills and Competencies for Your Future Tech](./certificates/D2_T2_S5.png)  
 
 <!-- Non-core / not directly software engineering & web development focused -->
 <!-- - [Web Penetration Testing 101](./certificates/web-penetration-testing.pdf) -->
