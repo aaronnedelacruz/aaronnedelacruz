@@ -76,10 +76,10 @@ Quezon City, National Capital Region, Philippines
 <!-- - [Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
 
 ## Technical Skill Sets:
-- **Programming:** Python, HTML, PHP, Java, Javascript, Kotlin, Bash Script
+- **Programming:** Python, HTML, CSS, PHP, Java, Javascript, Kotlin, Bash Script
 - **Databases:** IBM DB2 Cloud, Firebase, MongoDB, MySQL
 - **Web & App Development:** Laravel, Android (Java/Kotlin)
-- **Tools:** Visual Studio Code, Eclipse, Laragon, Lucidchart, Figma, PowerBI, Jaspersoft Studio, Cisco Packet Tracer, Microsoft Office Applications, Canva
+- **Tools:** GitHub, Visual Studio Code, IntelliJ IDEA, Eclipse, Android Studio, Laragon, Figma, Power BI, Lucidchart, Notion, Microsoft Office Suite, Claude Opus
 
 ## Soft Skills: 
 - Problem-solving and critical thinking
