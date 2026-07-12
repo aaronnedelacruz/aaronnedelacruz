@@ -8,6 +8,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - **New Era University (2022 – 2026)**  
   - Bachelor of Science in Information Technology
   - President's Lister
+  - GWA: 1.34
 - **New Era University - Integrated School (2020 - 2022)**
   - Graduated with Academic Honors
 - **Camarin High School (2016-2020)**
