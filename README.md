@@ -1,5 +1,5 @@
 # Aaronne Christian E. Dela Cruz  
-Caloocan City, Metro Manila | [LinkedIn](https://www.linkedin.com/in/aaronne-christian-dela-cruz/) | [GitHub](https://github.com/aaronnedelacruz)
+Caloocan City, Metro Manila | [LinkedIn](https://www.linkedin.com/in/aaronne-christian-dela-cruz/) | [GitHub](https://github.com/aaronnedelacruz) | [Portfolio](https://aaronnedelacruz.github.io/delacruzdigitalportfolio/)
 
 ## About Me:
 A reliable and detail-oriented IT professional in training, offering strong skills in web development, mobile applications, and database management. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
