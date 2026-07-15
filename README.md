@@ -18,7 +18,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - **Camarin Elementary School (2010-2016)**
   - Graduated with Academic Honors
 
-## Relevant Experience
+## Professional Experience
 
 ### Intern  
 **Simplevia Technologies Inc.**   
