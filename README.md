@@ -1,8 +1,8 @@
 # Aaronne Christian E. Dela Cruz  
 Caloocan City, Metro Manila | [LinkedIn](https://www.linkedin.com/in/aaronne-christian-dela-cruz/) | [GitHub](https://github.com/aaronnedelacruz) | [Portfolio](https://aaronnedelacruz.github.io/delacruzdigitalportfolio/)
 
-## About Me:
-A reliable and detail-oriented IT professional in training, offering strong skills in web development, mobile applications, and database management. Dedicated to continuous learning and problem solving, with the goal of contributing to innovative and efficient technology solutions.  
+## Professional Summary:
+Detail-oriented Information Technology graduate with hands-on experience in developing web and mobile applications, designing user-centered interfaces, and building database-driven systems. Proficient in PHP, JavaScript, MySQL, Firebase, and modern development tools, with a strong foundation in problem-solving, collaboration, and delivering practical technology solutions. Eager to contribute technical expertise while continuously learning and growing in a professional software development environment.
 
 ## Education:
 - **New Era University (2022 – 2026)**  
@@ -18,7 +18,7 @@ A reliable and detail-oriented IT professional in training, offering strong skil
 - **Camarin Elementary School (2010-2016)**
   - Graduated with Academic Honors
 
-## Professional Experience
+## Work Experience
 
 ### Intern  
 **Simplevia Technologies Inc.**   
