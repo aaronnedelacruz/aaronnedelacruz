@@ -30,7 +30,7 @@ Makati, National Capital Region, Philippines · Remote
 - Created responsive mobile design counterparts to ensure cross-device accessibility  
 - Assisted in front-end development by implementing and integrating functional web pages under supervisor-assigned tasks  
 
-### Capstone Project  
+### Projects  
 **StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration**  
 Jun 2026  
 Quezon City, National Capital Region, Philippines  
@@ -38,6 +38,13 @@ Quezon City, National Capital Region, Philippines
 - Responsible for quiz functionality, backend debugging, Firebase database integration, and front-end design.
 - Mobile app enabling creation, sharing, and group-based use of flashcards and quizzes with interactive study sessions.
 - Learned mobile app development, UI/UX design, database structuring in Firebase, real-time data handling, and collaborative project management.
+
+**InternTrack: OJT Hours Tracking and Internship Progress Management System**
+Jul 2026
+Caloocan City, National Capital Region, Philippines
+- Developed a web-based internship management system with manual and timer-based OJT session logging, real-time progress tracking, and productivity analytics, including active days, average hours, monthly hours, and next workday preview.- Built a forecasting module that predicts the expected internship completion date using rendered hours, remaining required hours, and configurable work schedules.
+- Designed an interactive reporting dashboard featuring weekly and monthly hours charts and breakdowns, project rankings, project distribution pie chart, and overall internship progress visualization.
+
 
 <!--
 - Developed with fellow programmers, this mobile-first application enables:
@@ -76,7 +83,7 @@ Quezon City, National Capital Region, Philippines
 <!-- - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
 <!-- - [Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
 
-## Technical Skill Sets:
+## Technical Proficiency:
 - **Programming:** Python, HTML, CSS, PHP, Java, Javascript, Kotlin, Bash Script
 - **Databases:** IBM DB2 Cloud, Firebase, MongoDB, MySQL
 - **Web & App Development:** Laravel, Android (Java/Kotlin)
