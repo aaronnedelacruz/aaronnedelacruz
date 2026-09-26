@@ -8,7 +8,7 @@ Detail-oriented Information Technology graduate with hands-on experience in deve
 - **New Era University (2022 – 2026)**  
   - Bachelor of Science in Information Technology
   - President's Lister
-  - GWA: 1.34
+  - GWA: 1.32
 - **New Era University - Integrated School (2020 - 2022)**
   - Graduated with Academic Honors
 - **Camarin High School (2016-2020)**
