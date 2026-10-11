@@ -43,9 +43,15 @@ Quezon City, National Capital Region, Philippines
 ### InternTrack: OJT Hours Tracking and Internship Progress Management System
 Jul 2026  
 Caloocan City, National Capital Region, Philippines
-- Developed a web-based internship management system with manual and timer-based OJT session logging, real-time progress tracking, and productivity analytics, including active days, average hours, monthly hours, and next workday preview.- Built a forecasting module that predicts the expected internship completion date using rendered hours, remaining required hours, and configurable work schedules.
+- Developed a web-based internship management system with manual and timer-based OJT session logging, real-time progress tracking, and productivity analytics, including active days, average hours, monthly hours, and next workday preview.
+- Built a forecasting module that predicts the expected internship completion date using rendered hours, remaining required hours, and configurable work schedules.
 - Designed an interactive reporting dashboard featuring weekly and monthly hours charts and breakdowns, project rankings, project distribution pie chart, and overall internship progress visualization.
 
+### Baybayin: Explore the Script (Online Learning Platform)
+- Developed a responsive online learning platform for teaching the Baybayin script using React, TypeScript, Tailwind CSS, and Vite.
+- Built interactive lessons featuring a virtual keyboard, answer validation, multiple-choice quizzes, and an endless practice mode.
+- Implemented reusable components and shared layouts to improve maintainability, consistency, and responsive behavior across devices.
+- Structured the application to support modular lesson expansion while delivering an intuitive and accessible learning experience.
 
 <!--
 - Developed with fellow programmers, this mobile-first application enables:
