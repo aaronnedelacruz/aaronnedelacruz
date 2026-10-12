@@ -3,17 +3,14 @@
 Caloocan City, Metro Manila |
 <a href="https://www.linkedin.com/in/aaronne-christian-dela-cruz/" target="_blank">
   <img width="28" height="28" alt="LinkedIn" src="https://github.com/user-attachments/assets/dc50655d-176b-4042-8b1e-a3c6500a572c" />
-  LinkedIn
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/aaronnedelacruz" target="_blank">
   <img width="28" height="28" alt="GitHub" src="https://github.com/user-attachments/assets/7acb30a9-f803-4570-8de0-a4eea746e820" />
-  GitHub
 </a>
 &nbsp;&nbsp;
 <a href="https://aaronnedelacruz.github.io/" target="_blank">
   <img width="28" height="28" alt="Portfolio" src="https://github.com/user-attachments/assets/8affc5a4-8253-4290-b169-d9861af6bd13" />
-  Portfolio
 </a>
 
 
