@@ -6,7 +6,7 @@ Caloocan City, Metro Manila |
 </a>
 &nbsp;
 <a href="https://github.com/aaronnedelacruz" target="_blank">
-  <img width="528" height="28" alt="GitHub" src="https://github.com/user-attachments/assets/7acb30a9-f803-4570-8de0-a4eea746e820" />
+  <img width="28" height="28" alt="GitHub" src="https://github.com/user-attachments/assets/7acb30a9-f803-4570-8de0-a4eea746e820" />
 </a>
 &nbsp;
 <a href="https://aaronnedelacruz.github.io/" target="_blank">
