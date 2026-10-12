@@ -57,6 +57,17 @@ Sep 2026
 - Implemented reusable components and shared layouts to improve maintainability, consistency, and responsive behavior across devices.
 - Structured the application to support modular lesson expansion while delivering an intuitive and accessible learning experience.
 
+## Technical Proficiency
+
+- **Programming Languages:** JavaScript, TypeScript, PHP, Python, Java, Kotlin, C#, HTML5, CSS3, XML, Bash Script
+- **Frameworks & Libraries:** React.js, Tailwind CSS, Bootstrap, Laravel, Node.js, Vite
+- **Databases:** MySQL, Firebase (Authentication, Firestore, Realtime Database), MongoDB, IBM DB2 Cloud
+- **Web & Mobile Development:** Responsive Web Development, Android Development (Java/Kotlin), RESTful APIs
+- **Version Control & Development Tools:** Git, GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA, Eclipse, XAMPP, Laragon
+- **Design Tools:** Figma, Canva, Photopea, Autodesk SketchBook, ibis Paint
+- **Productivity & Collaboration Tools:** Microsoft Office Suite, Power BI, Lucidchart, Notion, Trello
+- **AI Tools:** Claude AI, GitHub Copilot, Google Gemini
+
 <!--
 - Developed with fellow programmers, this mobile-first application enables:
   - Creation, editing, and sharing of flashcards and quizzes (multiple choice and enumeration)  
@@ -94,18 +105,6 @@ Sep 2026
 <!-- - [Introduction to Packet Tracer](https://www.credly.com/badges/46a4b437-bd85-4fd1-b99f-fb6d860961ca) -->
 <!-- - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
 <!-- - [Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
-
-## Technical Proficiency
-
-- **Programming Languages:** JavaScript, TypeScript, PHP, Python, Java, Kotlin, C#, HTML5, CSS3, XML, Bash Script
-- **Frameworks & Libraries:** React.js, Tailwind CSS, Bootstrap, Laravel, Node.js, Vite
-- **Databases:** MySQL, Firebase (Authentication, Firestore, Realtime Database), MongoDB, IBM DB2 Cloud
-- **Web & Mobile Development:** Responsive Web Development, Android Development (Java/Kotlin), RESTful APIs
-- **Version Control & Development Tools:** Git, GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA, Eclipse, XAMPP, Laragon
-- **Design Tools:** Figma, Canva, Photopea, Autodesk SketchBook, ibis Paint
-- **Productivity & Collaboration Tools:** Microsoft Office Suite, Power BI, Lucidchart, Notion, Trello
-- **AI Tools:** Claude AI, GitHub Copilot, Google Gemini, ChatGPT
-
 
 ## Soft Skills:
 - Problem-solving and analytical thinking
