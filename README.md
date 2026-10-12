@@ -5,7 +5,10 @@ Caloocan City, Metro Manila |
 
 
 ## Professional Summary:
-Detail-oriented Information Technology graduate with hands-on experience in developing web and mobile applications, designing user-centered interfaces, and building database-driven systems. Proficient in HTML5, CSS3, JavaScript, PHP, Java, MySQL, Firebase, and modern development tools with a strong foundation in problem-solving, collaboration, and delivering practical technology solutions. Eager to contribute technical expertise while continuously learning and growing in a professional software development environment.
+Information Technology Graduate with experience building web and mobile applications using React, JavaScript, TypeScript, PHP, SQL, 
+HTML, CSS, and Firebase. Experienced in frontend development, backend functionality, database integration, and 
+debugging. Passionate about learning new technologies, improving workflows, and developing practical software 
+solutions through clean, maintainable code. 
 
 ## Education:
 - **New Era University (2022 – 2026)**  
