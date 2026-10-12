@@ -26,7 +26,7 @@ solutions through clean, maintainable code.
 
 ## Work Experience
 
-### Intern  
+### Frontend and UI/UX Intern  
 **Simplevia Technologies Inc.**   
 Oct 2025 – Mar 2026  
 Makati, National Capital Region, Philippines · Remote  
