@@ -91,19 +91,25 @@ Caloocan City, National Capital Region, Philippines
 <!-- - [CISCO Networking Academy | Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
 <!-- - [Introduction to Cybersecurity](https://www.credly.com/badges/5adc3931-0cfa-45c1-8abc-5fbc3669bf01/public_url) -->
 
-## Technical Proficiency:
-- **Programming:** Python, HTML, CSS, PHP, Java, Javascript, Kotlin, Bash Script
-- **Databases:** IBM DB2 Cloud, Firebase, MongoDB, MySQL
-- **Web & App Development:** Laravel, Android (Java/Kotlin)
-- **Tools:** GitHub, Visual Studio Code, IntelliJ IDEA, Eclipse, Android Studio, Laragon, Figma, Power BI, Lucidchart, Notion, Microsoft Office Suite, Claude Opus
+## Technical Proficiency
 
-## Soft Skills: 
-- Problem-solving and critical thinking
-- Systematic and detail-oriented
-- Data collection and analysis
-- Teamwork and collaboration
-- Report writing and presentation
-- Committed to applying analytical and technical skills to support organizational goals
+- **Programming Languages:** JavaScript, TypeScript, PHP, Python, Java, Kotlin, C#, HTML5, CSS3, XML, Bash Script
+- **Frameworks & Libraries:** React.js, Tailwind CSS, Bootstrap, Laravel, Node.js, Vite
+- **Databases:** MySQL, Firebase (Authentication, Firestore, Realtime Database), MongoDB, IBM DB2 Cloud
+- **Web & Mobile Development:** Responsive Web Development, Android Development (Java/Kotlin), RESTful APIs
+- **Version Control & Development Tools:** Git, GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA, Eclipse, XAMPP, Laragon
+- **Design Tools:** Figma, Canva, Photopea, Autodesk SketchBook, ibis Paint
+- **Productivity & Collaboration Tools:** Microsoft Office Suite, Power BI, Lucidchart, Notion, Trello
+- **AI Tools:** Claude AI, GitHub Copilot, Google Gemini, ChatGPT
+
+
+## Soft Skills:
+- Problem-solving and analytical thinking
+- Attention to detail
+- Teamwork and cross-functional collaboration
+- User-centered design mindset
+- Adaptability and willingness to learn
+- Effective communication
 
 ## Interests:
 - Web and mobile app development
