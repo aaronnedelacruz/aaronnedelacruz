@@ -36,7 +36,7 @@ Makati, National Capital Region, Philippines · Remote
 ## Projects  
 
 ### StudySync: A Collaborative Flashcard and Quiz Application with Chat Room Integration
-Jun 2026  
+Jan 2025 - Dec 2025  
 Quezon City, National Capital Region, Philippines  
 
 - Responsible for quiz functionality, backend debugging, Firebase database integration, and front-end design.
@@ -44,13 +44,14 @@ Quezon City, National Capital Region, Philippines
 - Learned mobile app development, UI/UX design, database structuring in Firebase, real-time data handling, and collaborative project management.
 
 ### InternTrack: OJT Hours Tracking and Internship Progress Management System
-Jul 2026  
+Jun 2026  
 Caloocan City, National Capital Region, Philippines
 - Developed a web-based internship management system with manual and timer-based OJT session logging, real-time progress tracking, and productivity analytics, including active days, average hours, monthly hours, and next workday preview.
 - Built a forecasting module that predicts the expected internship completion date using rendered hours, remaining required hours, and configurable work schedules.
 - Designed an interactive reporting dashboard featuring weekly and monthly hours charts and breakdowns, project rankings, project distribution pie chart, and overall internship progress visualization.
 
 ### Baybayin: Explore the Script (Online Learning Platform)
+Sep 2026
 - Developed a responsive online learning platform for teaching the Baybayin script using React, TypeScript, Tailwind CSS, and Vite.
 - Built interactive lessons featuring a virtual keyboard, answer validation, multiple-choice quizzes, and an endless practice mode.
 - Implemented reusable components and shared layouts to improve maintainability, consistency, and responsive behavior across devices.
