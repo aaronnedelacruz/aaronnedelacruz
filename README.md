@@ -2,18 +2,40 @@
 
 Caloocan City, Metro Manila |
 <a href="https://www.linkedin.com/in/aaronne-christian-dela-cruz/" target="_blank">
-  <img width="20" height="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/dc50655d-176b-4042-8b1e-a3c6500a572c" />
-  LinkedIn
+  <img
+    src="https://github.com/user-attachments/assets/dc50655d-176b-4042-8b1e-a3c6500a572c"
+    alt="LinkedIn"
+    width="28"
+    height="28"
+    style="vertical-align: middle;"
+  />
+  <span style="vertical-align: middle;">LinkedIn</span>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://github.com/aaronnedelacruz" target="_blank">
-  <img width="20" height="20" alt="GitHub" src="https://github.com/user-attachments/assets/7acb30a9-f803-4570-8de0-a4eea746e820" />
-  GitHub
+  <img
+    src="https://github.com/user-attachments/assets/7acb30a9-f803-4570-8de0-a4eea746e820"
+    alt="GitHub"
+    width="28"
+    height="28"
+    style="vertical-align: middle;"
+  />
+  <span style="vertical-align: middle;">GitHub</span>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://aaronnedelacruz.github.io/" target="_blank">
-  <img width="20" height="20" alt="Portfolio" src="https://github.com/user-attachments/assets/8affc5a4-8253-4290-b169-d9861af6bd13" />
-  Digital Portfolio
+  <img
+    src="https://github.com/user-attachments/assets/8affc5a4-8253-4290-b169-d9861af6bd13"
+    alt="Portfolio"
+    width="28"
+    height="28"
+    style="vertical-align: middle;"
+  />
+  <span style="vertical-align: middle;">Portfolio</span>
 </a>
 
 
