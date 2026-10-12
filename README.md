@@ -1,7 +1,7 @@
 # Aaronne Christian E. Dela Cruz  
 Caloocan City, Metro Manila | [LinkedIn](https://www.linkedin.com/in/aaronne-christian-dela-cruz/) | [GitHub](https://github.com/aaronnedelacruz) | [Portfolio](https://aaronnedelacruz.github.io/)
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/dc50655d-176b-4042-8b1e-a3c6500a572c" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/dc50655d-176b-4042-8b1e-a3c6500a572c" />
 
 
 ## Professional Summary:
