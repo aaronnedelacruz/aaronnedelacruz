@@ -75,6 +75,7 @@ Caloocan City, National Capital Region, Philippines
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=378E9C954333079049341179DBA74249BF85A7D5AA36A5E6DE976BE61D4D00AB)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/390180f906824e98b47558fce7e910e7)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d2289b97bbb7403a8a875935bd92389e)
+- [TestDome C++ Certificate](https://www.testdome.com/certificates/bf7f9c056dbc413b916c0aeb830fb235)
 
 <!-- Non-core / not directly software engineering & web development focused seminar/trainings-->
 <!-- - [Web Penetration Testing 101](./certificates/web-penetration-testing.pdf) -->
